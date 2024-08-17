@@ -37,7 +37,7 @@ const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 //----------------OWNER NUMBER------------------------------//
 //////////////////////////////////////////////////////////////////
 
-global.owner = process.env.OWNER_NUMBER  || '254706024086' ;  //put your number without +
+global.owner = process.env.OWNER_NUMBER  || '25482306305' ;  //put your number without +
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
